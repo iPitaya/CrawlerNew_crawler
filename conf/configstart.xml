@@ -1,0 +1,10 @@
+<message>
+	<crawlStorageFolder>data/crawl</crawlStorageFolder>
+	<numberOfCrawlers>2</numberOfCrawlers>
+	<daleytime>1000</daleytime>
+	<DepthOfCrawling>6</DepthOfCrawling>
+	<ListWebDepth>6</ListWebDepth>
+	<ContWebDepth>6</ContWebDepth>
+	<MaxPagesToFetch>-1</MaxPagesToFetch>
+	<ResumableCrawling>false</ResumableCrawling>
+</message>
